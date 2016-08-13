@@ -1,0 +1,7 @@
+.g-hd ul li{
+	float:left;
+}
+.g-hd ul li a{
+	padding:5px 12px;
+	display:block;
+}

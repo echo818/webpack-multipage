@@ -1,0 +1,1 @@
+$('.g-ft').html('<div>@copyright 小三科技技术有限公司</div>');
